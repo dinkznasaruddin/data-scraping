@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Proyek Praktikum: Alur Kerja Data Science dari A-Z</h1>
+  <h1>Fundamental : Alur Kerja Data Science dari A-Z</h1>
   <p>
     Sebuah repositori yang mendokumentasikan alur kerja end-to-end dalam proyek data science, mulai dari pengambilan data, penyimpanan, eksplorasi, hingga analisis kualitas data.
   </p>
